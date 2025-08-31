@@ -1,1 +1,1 @@
-# tambola2.0 (fresh repo, no history)
+# Tambola 2.0 — Clean Slate
